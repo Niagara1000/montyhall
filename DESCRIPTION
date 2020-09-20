@@ -1,0 +1,18 @@
+Package: montyhall
+Title: Consists of functions to simulate the Monty Hall game.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Archana",
+           family = "Ramamoorthy",
+           role = c("aut", "cre"),
+           email = "triton17@outlook.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Simulates event of playing the Monty Hall game show.
+Depends: 
+   dplyr
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+
